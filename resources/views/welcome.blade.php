@@ -1,0 +1,1 @@
+<h1>Welcome to front page of the website</h1>
